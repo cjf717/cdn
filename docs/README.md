@@ -24,10 +24,10 @@
 |cdn.jsdelivr.us|    Anycast    |
 
 - 访问地址
-  * 默认版本：https://gcore.jsdelivr.net/gh/cjf717/statics/
-  * 最后更新版本：https://gcore.jsdelivr.net/gh/cjf717/statics@latest/
-  * 指定分支版本：https://gcore.jsdelivr.net/gh/cjf717/statics@master/
-  * 指定标签版本：https://gcore.jsdelivr.net/gh/cjf717/statics@0.1/
+  * 默认版本：https://gcore.jsdelivr.net/gh/cjf717/cdn/
+  * 最后更新版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@latest/
+  * 指定分支版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@main/
+  * 指定标签版本：https://gcore.jsdelivr.net/gh/cjf717/cdn@0.1/
 
 ## 强制更新
 Github文件已更改，jsdelivr CDN没更新。
